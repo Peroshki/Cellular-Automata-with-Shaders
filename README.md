@@ -11,6 +11,6 @@ It consists of a two-dimensional grid of cells, where each cell may be in one of
 A cells "neighbourhood" consists of all of the cells which are adjacent to it (its "neighbours")
 
 The rules are as follows:
-*A dead cell becomes alive if it has exactly two live neighbors
-*A live cell becomes a dying cell
-*A dying cell becomes a dead cell
+* A dead cell becomes alive if it has exactly two live neighbors
+* A live cell becomes a dying cell
+* A dying cell becomes a dead cell
