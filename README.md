@@ -2,6 +2,7 @@
 Play this demo at https://peroshki.github.io/Cellular-Automata-with-Shaders/
 
 A display of cellular automata done with shaders in Unity. All of the shaders and scripts used in this demo can be found in the Assets folder.
+
 Use the Up/Down arrow keys to control the speed of the animation.
 
 The rulset used for the cellular automata is commonly known as Brian's Brain.
