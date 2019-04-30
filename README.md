@@ -5,8 +5,6 @@ A display of cellular automata done with shaders in Unity. All of the shaders an
 
 Use the Up/Down arrow keys to control the speed of the animation.
 
-The rulset used for the cellular automata is commonly known as Brian's Brain.
-
 ## Brian's Brain (from Wikipedia)
 Brian's Brain is a cellular automaton devised by Brian Silverman.
 
